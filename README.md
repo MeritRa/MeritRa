@@ -1,4 +1,4 @@
-[![Header](https://github.com/MeritRa/assets/header.png)](https://t.me/@meritra)
+[![Header](assets/header.png)](https://t.me/@meritra)
 
 ## About me:
 
