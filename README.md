@@ -34,3 +34,5 @@
 - [SQL, manual testing, automation testing and more](https://github.com/MeritRa/certificates)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritRa&show_icons=true&theme=cobalt)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?show_icons=true&theme=cobalt)
