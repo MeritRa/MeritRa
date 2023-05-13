@@ -7,7 +7,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Contact_me-1a1919?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/meritra)
 
-### Languages and Tools
+## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1919?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/-Git-F24343?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-1a1919?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
@@ -24,14 +24,13 @@
 ![Maven](https://img.shields.io/badge/-Apache_Maven-CE0067?style=for-the-badge&logo=ApacheMaven&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-00D6F8?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 
-### Testing Documentation
-- [Checklists](https://github.com/meritra/checklist)
-- [Test-Suites and Test-Cases](https://github.com/meritra/test-cases)
-- [Bug-Reports](https://github.com/meritra/bug-reports)
-- [SQL Queries](https://github.com/meritra/sql)
-- [Postman Collections](https://github.com/meritra/postman)
+## Testing Documentation
+- [Checklists](https://github.com/MeritRa/checklist)
+- [Test-Suites and Test-Cases](https://github.com/MeritRa/test-cases)
+- [Bug-Reports](https://github.com/MeritRa/bug-reports)
+- [SQL Queries](https://github.com/MeritRa/sql)
 
-### Certificates
+## Certificates
 - [SQL, manual testing, automation testing and more](https://github.com/meritra/certificates)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritRa&show_icons=true&theme=cobalt)
