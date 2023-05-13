@@ -25,13 +25,13 @@
 ![Docker](https://img.shields.io/badge/-Docker-00D6F8?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 
 ## Testing Documentation
-- [Checklists](https://github.com/MeritRa/checklist)
-- [Test-Suites and Test-Cases](https://github.com/MeritRa/test-cases)
-- [Bug-Reports](https://github.com/MeritRa/bug-reports)
-- [SQL Queries](https://github.com/MeritRa/sql)
+### - [Checklists](https://github.com/MeritRa/checklist)
+### - [Test-Suites and Test-Cases](https://github.com/MeritRa/test-cases)
+### - [Bug-Reports](https://github.com/MeritRa/bug-reports)
+### - [SQL Queries](https://github.com/MeritRa/sql)
 
 ## Certificates
-- [SQL, manual testing, automation testing and more](https://github.com/MeritRa/certificates)
+### - [SQL, manual testing, automation testing and more](https://github.com/MeritRa/certificates)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritRa&show_icons=true&theme=cobalt)
 
