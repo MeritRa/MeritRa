@@ -7,7 +7,7 @@ I'm a...
 
 **CV:** [English](http://), [Russian](http://)
 
-[![Telegram](https://img.shields.io/badge/-Contact_me-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/meritra)
+[![Telegram](https://img.shields.io/badge/-Contact_me-1a1919?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/meritra)
 
 ## Check my works:
 + f
