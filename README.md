@@ -3,22 +3,16 @@
 <img src="assets/alien1.gif" height="47"/></h1>
 <h3 align="center">QA engineer</h3>
 
-I'm a...
-
-**CV:** [English](http://), [Russian](http://)
+### **CV:** [English](https://drive.google.com/file/), [Russian](https://drive.google.com/file/)
 
 [![Telegram](https://img.shields.io/badge/-Contact_me-1a1919?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/meritra)
 
-## Check my works:
-+ f
-* f
-
-## Languages and Tools:
+### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1919?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/-Git-F24343?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-1a1919?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-fff?style=for-the-badge&logo=postman&logoColor=f76935)
 ![MySQL](https://img.shields.io/badge/-MySQL-62A3E4?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
-![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-1a1919?style=for-the-badge&logo=IntelliJIDEA&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-0059FF?style=for-the-badge&logo=Jira&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9049E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 ![Selenium](https://img.shields.io/badge/-Selenium-07CD14?style=for-the-badge&logo=Selenium&logoColor=FFFFFF)
@@ -30,9 +24,14 @@ I'm a...
 ![Maven](https://img.shields.io/badge/-Apache_Maven-CE0067?style=for-the-badge&logo=ApacheMaven&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-00D6F8?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 
-## Certificates:
-- f
-- f
+### Testing Documentation
+- [Checklists](https://github.com/meritra/checklist)
+- [Test-Suites and Test-Cases](https://github.com/meritra/test-cases)
+- [Bug-Reports](https://github.com/meritra/bug-reports)
+- [SQL Queries](https://github.com/meritra/sql)
+- [Postman Collections](https://github.com/meritra/postman)
 
-## Stats: 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritRa)](https://github.com/anuraghazra/github-readme-stats)
+### Certificates
+- [SQL, manual testing, automation testing and more](https://github.com/meritra/certificates)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritRa&show_icons=true&theme=cobalt)
