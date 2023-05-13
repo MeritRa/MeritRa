@@ -31,6 +31,6 @@
 - [SQL Queries](https://github.com/MeritRa/sql)
 
 ## Certificates
-- [SQL, manual testing, automation testing and more](https://github.com/meritra/certificates)
+- [SQL, manual testing, automation testing and more](https://github.com/MeritRa/certificates)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritRa&show_icons=true&theme=cobalt)
