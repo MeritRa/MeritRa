@@ -4,8 +4,6 @@
 
 ### **CV:** [English](https://drive.google.com/file/), [Russian](https://drive.google.com/file/)
 
-[![Telegram](https://img.shields.io/badge/-Contact_me-1a1919?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/meritra)
-
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1919?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/-Git-F24343?style=for-the-badge&logo=Git&logoColor=FFFFFF)
