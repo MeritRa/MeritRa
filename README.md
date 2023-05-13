@@ -1,7 +1,6 @@
 ![Header](assets/header.png)
 <h1 align="center">Hi, I'm <a href="https://t.me/meritra" target="_blank">Maria</a>
 <img src="assets/alien1.gif" height="47"/></h1>
-<h3 align="center">QA engineer</h3>
 
 ### **CV:** [English](https://drive.google.com/file/), [Russian](https://drive.google.com/file/)
 
