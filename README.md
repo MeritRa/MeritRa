@@ -2,7 +2,7 @@
 <h1 align="center">Well, hello there! I'm <a href="https://t.me/meritra" target="_blank">Maria</a>
 <img src="assets/alien1.gif" height="47"/></h1>
 
-## **CV:** [English](https://drive.google.com/file/), [Russian](https://drive.google.com/file/)
+## **CV:** English, [Russian](https://drive.google.com/file/)
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1919?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
