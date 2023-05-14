@@ -5,7 +5,6 @@
 ## **CV:** English, [Russian](https://drive.google.com/file/)
 
 ## Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1919?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/-Git-F24343?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-1a1919?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-fff?style=for-the-badge&logo=postman&logoColor=f76935)
