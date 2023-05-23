@@ -2,7 +2,7 @@
 <h1 align="center">Well, hello there! I'm <a href="https://t.me/meritra" target="_blank">Maria</a>
 <img src="assets/alien1.gif" height="47"/></h1>
 
-I changed my career path from a nurse to a QA Engineer. During my studies, I always had a high academic performance and met deadlines for tasks, regardless of the conditions. I am capable of quickly learning new skills and adapting to any work environment.
+I changed my career path from a nurse to a Software Tester. During my studies, I always had a high academic performance and met deadlines for tasks, regardless of the conditions. I am capable of quickly learning new skills and adapting to any work environment.
 
 I'm willing to actively develop my professional skills and contribute to a team.
 
