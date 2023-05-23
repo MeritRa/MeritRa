@@ -2,6 +2,12 @@
 <h1 align="center">Well, hello there! I'm <a href="https://t.me/meritra" target="_blank">Maria</a>
 <img src="assets/alien1.gif" height="47"/></h1>
 
+I changed my career path from a nurse to a QA Engineer. During my studies, I always had a high academic performance and met deadlines for tasks, regardless of the conditions. I am capable of quickly learning new skills and adapting to any work environment.
+
+I'm willing to actively develop my professional skills and contribute to a team.
+
+Prefer remote job opportunities, but open to relocation and/or business trips.
+
 ## **CV:** English, [Russian](https://docs.google.com/document/d/1HKuo7hniWTsvNybghWPCFhKt2jvHKfC_8ppMbLEEO6s/edit?usp=share_link)
 
 ## Languages and Tools
