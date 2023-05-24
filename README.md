@@ -8,7 +8,7 @@ I'm willing to actively develop my professional skills and contribute to a team.
 
 Prefer remote job opportunities, but open to relocation and/or business trips.
 
-## **CV:** English, [Russian](https://docs.google.com/document/d/1HKuo7hniWTsvNybghWPCFhKt2jvHKfC_8ppMbLEEO6s/edit?usp=share_link)
+## **CV:** English, [Russian](https://docs.google.com/document/d/1OgBUELgGS_7OfvFVZSlnufIVtYbjTPlL/edit?usp=sharing&ouid=103241966364335591429&rtpof=true&sd=true)
 
 ## Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-F24343?style=for-the-badge&logo=Git&logoColor=FFFFFF)
