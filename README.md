@@ -2,12 +2,6 @@
 <h1 align="center">Well, hello there! I'm <a href="https://t.me/meritra" target="_blank">Maria</a>
 <img src="assets/alien1.gif" height="47"/></h1>
 
-I changed my career path from a nurse to a Software Tester. During my studies, I always had a high academic performance and met deadlines for tasks, regardless of the conditions. I am capable of quickly learning new skills and adapting to any work environment.
-
-I'm willing to actively develop my professional skills and contribute to a team.
-
-Prefer remote job opportunities, but open to relocation and/or business trips.
-
 ## **CV:** [Russian](https://docs.google.com/document/d/1OgBUELgGS_7OfvFVZSlnufIVtYbjTPlL/edit?usp=sharing&ouid=103241966364335591429&rtpof=true&sd=true)
 
 ## Languages and Tools
@@ -30,6 +24,9 @@ Prefer remote job opportunities, but open to relocation and/or business trips.
 ### - [Test-Suites and Test-Cases](https://github.com/MeritRa/test-cases)
 ### - [Bug-Reports](https://github.com/MeritRa/bug-reports)
 ### - [SQL Queries](https://github.com/MeritRa/sql)
+
+## QA Automation
+### - [Graduation project (Netology)](https://github.com/MeritRa/diploma)
 
 ## Certificates
 ### - [SQL, manual testing, automation testing and more](https://github.com/MeritRa/certificates) 
