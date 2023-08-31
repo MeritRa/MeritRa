@@ -25,10 +25,29 @@
 ### - [SQL Queries / SQL-запросы](https://github.com/MeritRa/sql)
 
 ## QA Automation / Автоматизированное тестирование
+### - [Postman Requests / Postman-запросы]
+### - [Java UI tests / Java тесты для интерфейса]
+### - [Java API tests / Java тесты для API]
+### - [Python UI tests / Python тесты для интерфейса]
+### - [Python API tests / Python тесты для API]
 ### - [Graduation project (Netology) / Дипломный проект Нетологии](https://github.com/MeritRa/diploma)
 
 ## Certificates / Сертификаты
-### - [SQL, manual testing, automation testing and more](https://github.com/MeritRa/certificates) 
+### - [All certificates / Все сертификаты](https://github.com/MeritRa/certificates) 
+
+<details><summary>see more</summary>
+
+   1. [English EF SET](https://github.com/MeritRa/certificates/blob/main/assets%2FEF%20SET%20Certificate.jpg)
+   2. [SQL](https://github.com/MeritRa/certificates/blob/main/assets%2FSQL.jpg)
+   3. [Manual testing](https://github.com/MeritRa/certificates/blob/main/assets%2Fmanual.jpg)
+   4. [Automation testing](https://github.com/MeritRa/certificates/blob/main/assets%2Fauto.jpg)
+   5. [Git](https://github.com/MeritRa/certificates/blob/main/assets%2Fgit.jpg)
+   6. [Java](https://github.com/MeritRa/certificates/blob/main/assets%2Fjava.jpg)
+   7. [HTML CSS](https://github.com/MeritRa/certificates/blob/main/assets%2Fhtml_css.jpg)
+   8. [Netology English](https://github.com/MeritRa/certificates/blob/main/assets%2Fenglish_neto.jpg)
+      
+</details>
+
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritRa&show_icons=true&theme=cobalt) 
 ***
