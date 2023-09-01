@@ -6,10 +6,13 @@
 ## Languages and Tools / Инструменты
 ![Git](https://img.shields.io/badge/-Git-F24343?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-1a1919?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-fff?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Jira](https://img.shields.io/badge/-Jira-0059FF?style=for-the-badge&logo=Jira&logoColor=FFFFFF)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-62A3E4?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9049E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-07CD14?style=for-the-badge&logo=Selenium&logoColor=FFFFFF)
 ![Selenide](https://img.shields.io/badge/-Selenide-EBA907?style=for-the-badge&logo=Selenium&logoColor=FFFFFF)
 ![Junit5](https://img.shields.io/badge/-Junit5-45BE1B?style=for-the-badge&logo=Junit5&logoColor=FFFFFF)
@@ -17,6 +20,9 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-07765D?style=for-the-badge&logo=Gradle&logoColor=FFFFFF)
 ![Maven](https://img.shields.io/badge/-Apache_Maven-CE0067?style=for-the-badge&logo=ApacheMaven&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-00D6F8?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## Testing Documentation / Тестовая документация
 ### - [Checklists / Чек-листы](https://github.com/MeritRa/checklist)
@@ -35,7 +41,7 @@
 ## Certificates / Сертификаты
 ### - [All certificates / Все сертификаты](https://github.com/MeritRa/certificates) 
 
-<details><summary>see more</summary>
+<details><summary>see more / подробнее</summary>
 
    1. [English EF SET](https://github.com/MeritRa/certificates/blob/main/assets%2FEF%20SET%20Certificate.jpg)
    2. [SQL](https://github.com/MeritRa/certificates/blob/main/assets%2FSQL.jpg)
