@@ -31,7 +31,7 @@
 ### - [SQL Queries / SQL-запросы](https://github.com/MeritRa/sql)
 
 ## QA Automation / Автоматизированное тестирование
-### - [Postman Requests / Postman-запросы]
+### - [Postman Requests / Postman-запросы](https://github.com/MeritRa/postman)
 ### - [Java UI tests / Java тесты для интерфейса]
 ### - [Java API tests / Java тесты для API]
 ### - [Python UI tests / Python тесты для интерфейса]
