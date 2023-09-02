@@ -3,6 +3,16 @@
 
 ## **CV / Резюме:** [Russian](https://docs.google.com/document/d/1OgBUELgGS_7OfvFVZSlnufIVtYbjTPlL/edit?usp=sharing&ouid=103241966364335591429&rtpof=true&sd=true)
 
+## Skills / Навыки:
+- Understanding, organizing and conducting various types of **manual testing**; 
+- Conducting **requirements testing**; 
+- Preparation of **test documentation**: test cases, checklists, bug reports, test reports;
+- Search, registration and localization of errors in the bug tracker **(Jira, Trello)**, verifying their fix;
+- Experience with **DevTools, Git, Docker, GitHub, CI**; 
+- Knowledge of relational **databases**, experience with **SQL, MySQL**; 
+- Basic knowledge of programming languages **(Java, Python)**; 
+- Experience in organizing and conducting various types of **automated testing**, working with automation tools **(Selenium, Selenide)**, knowledge of automation approaches **(BDD, TDD, etc.)** and test automation tools **(TestNG, JUnit, etc.)**;
+
 ## Languages and Tools / Инструменты
 ![Git](https://img.shields.io/badge/-Git-F24343?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-1a1919?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
