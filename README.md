@@ -1,7 +1,7 @@
 <h1 align="center">Well, hello there! I'm <a href="https://t.me/merit_ra" target="_blank">Maria</a>
 <img src="assets/alien1.gif" height="47"/></h1>
 
-## **CV / Резюме:** [Russian](https://docs.google.com/document/d/1OgBUELgGS_7OfvFVZSlnufIVtYbjTPlL/edit?usp=sharing&ouid=103241966364335591429&rtpof=true&sd=true)
+## **CV / Резюме:** [Russian](https://docs.google.com/document/d/1OgBUELgGS_7OfvFVZSlnufIVtYbjTPlL/edit?usp=sharing&ouid=103241966364335591429&rtpof=true&sd=true), [English](https://drive.google.com/file/d/1y3XJM1zfSlybd280hpKANCUQMRXFLJpu/view?usp=sharing)
 
 ## Skills / Навыки:
 - Understanding, organizing and conducting various types of **manual testing**; 
