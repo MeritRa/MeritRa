@@ -42,6 +42,7 @@
 
 ## QA Automation / Автоматизированное тестирование
 ### - [Postman Requests / Postman-запросы](https://github.com/MeritRa/postman)
+### - [Python API tests / Python тесты для API](https://gitlab.com/115783228/ff-autotests)
 ### - [Graduation project (Netology) / Дипломный проект Нетологии](https://github.com/MeritRa/diploma)
 
 ## Certificates / Сертификаты
