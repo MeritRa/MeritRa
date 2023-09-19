@@ -44,6 +44,7 @@
 ### - [Postman Requests / Postman-запросы](https://github.com/MeritRa/postman)
 ### - [Python API tests / Python тесты для API](https://gitlab.com/115783228/ff-autotests)
 ### - [Graduation project (Netology) / Дипломный проект Нетологии](https://github.com/MeritRa/diploma)
+### - [Test-task for PyAutoGUI (desktop app) / Тестовое задание для PyAutoGUI (десктопное приложение)](https://github.com/MeritRa/diploma)
 
 ## Certificates / Сертификаты
 ### - [All certificates / Все сертификаты](https://github.com/MeritRa/certificates) 
